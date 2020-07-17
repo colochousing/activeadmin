@@ -1,3 +1,5 @@
+[PATCHED FOR COLOC HOUSING TO REMOVE SPROCKETS AND SASSC]
+
 # Active Admin
 
 [Active Admin](https://activeadmin.info) is a Ruby on Rails framework for
